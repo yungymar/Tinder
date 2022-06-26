@@ -10,7 +10,8 @@ body {
   font-family: sans-serif;
 }
 
-img { 50%}
+img { 
+  width: 50%;)
 
 .tinder {
   width: 100vw;
